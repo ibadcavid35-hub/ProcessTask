@@ -69,3 +69,7 @@ namespace ConsoleApp40
         }
     }
 }
+
+//Asembly - bizim yazdigimiz kod compile olunandan sonra yaranir, iki fayl yaranir .exe ve .dll.
+//Module - Asssembly daxilindeki hissesidir. Meselen .dll daxilinde olan module-ler ola biler.
+//Ve her modeule daxilinde class,method ve s. saxlayir.
